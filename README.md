@@ -1,4 +1,4 @@
-👨‍💻 QA Engineer | Scrum Master | Web Developer | Data Enthusiast
+👨‍💻 Web Developer | Data Analyst | Devops | QA Engineer | Scrum Master 
 
 Hi, I'm Parag Patil, a tech-savvy professional passionate about blending innovation with technology to create impactful solutions. 🎯 With a strong foundation in manual and automated testing, I ensure seamless and reliable user experiences for every project I tackle.
 
@@ -6,7 +6,7 @@ Hi, I'm Parag Patil, a tech-savvy professional passionate about blending innovat
 
 🌟 Highlights of My Expertise:
 
-🚀 Automation Testing: Reduced regression testing time by 40% with optimized Selenium scripts.
+🚀 Automation Testing: Reduced regression testing time by 40% with optimized Playwright scripts.
 🎯 Web Development: Crafted user-friendly websites using HTML, CSS, and JavaScript.
 📊 Data Visualization: Leveraged tools like Power BI to present actionable insights.
 🤝 Team Leadership: Facilitated agile ceremonies to boost productivity and ensure smooth project delivery.
